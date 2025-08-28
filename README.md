@@ -35,7 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-Resume builder
+## Resume builder
 - Created a resume builder with Next.js and psql. Used Python for AI tasks
 - Used special svg images and effects.
 - Next.js routing. I set up a side bar for easy navigation.
