@@ -1,7 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  experimental: {
+    esmExternals: "loose", // 👈 allow importing ESM-only packages like @react-pdf/renderer
+  },
 };
 
 export default nextConfig;
